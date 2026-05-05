@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pluggedtmap.github.io/resources-th2tm5/sitemap.xml
